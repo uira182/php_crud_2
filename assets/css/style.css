@@ -1,0 +1,40 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 23/11/2019, 03:04:49
+    Author     : Professor
+*/
+
+#cadastroProdutoFundo{
+    background: url('../images/sistema/produtos-default.jpg') fixed center;
+    background-size: cover;
+}
+#cadastroProduto{
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+#prodImg{
+    max-height: 200px;
+}
+
+#icoImg{
+    min-height: 150px;
+    max-height: 150px;
+}
+.imgBoxProd{
+}
+.nomeBoxProd{
+    min-height: 50px;
+    max-height: 50px;
+}
+.descBoxProd{
+    min-height: 50px;
+    max-height: 50px;
+}
+
+.blue {
+    background-color: blue; 
+}
